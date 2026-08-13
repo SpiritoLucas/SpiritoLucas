@@ -51,6 +51,12 @@ I build platforms that teams can trust: measurable, automated and resilient.
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
+[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)]()
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)]()
+[![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)]()
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)]()
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)]()
+
 ---
 
 ## Experience
@@ -96,6 +102,22 @@ day-to-day reliability of critical customer-facing services.
   and Supervisor.
 - Built a C# / Entity Framework API for daily employee health self-tests during
   the pandemic.
+
+---
+
+## AI & Agentic Workflows
+
+I use AI agents as a core part of my engineering workflow - not just for code, but to
+operate infrastructure, automate processes and multiply my throughput:
+
+- **Agentic coding assistants** - opencode, Claude Code and similar agents for
+  infra automation, scripting, configuration management and day-to-day ops.
+- **MCP servers & custom skills** - extending agent tooling with Model Context
+  Protocol servers and tailored skills to fit my environment and workflows.
+- **Browser automation** - Playwright-driven scraping and UI automation to gather
+  data and interact with platforms that don't expose public APIs.
+- **Multi-machine orchestration** - driving workflows across Windows, macOS and
+  remote servers (SSH, GitHub CLI, CI/CD) through agent-managed sessions.
 
 ---
 
