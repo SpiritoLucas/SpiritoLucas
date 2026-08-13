@@ -101,26 +101,25 @@ day-to-day reliability of critical customer-facing services.
 
 ## Certifications
 
-**Datadog Learning Center**
+**Datadog**
 
 - [Introduction to OpenTelemetry with Datadog](https://learn.datadoghq.com/certificates/iugwz6vyr3) - Jul 2025
 - [Optimize Request Latency with Profiling Timeline](https://learn.datadoghq.com/certificates/s1zltty1lf) - Jul 2024
-- Tagging Best Practices
-- Datadog 101: Site Reliability Engineer
-- Datadog 101: Developer
-- Datadog Foundation
-- Introduction to Synthetic Tests
+- [Tagging Best Practices](https://learn.datadoghq.com/certificates/meqdacbghj) - Jul 2024
+- [Datadog 101: Developer](https://learn.datadoghq.com/certificates/qduagykprw) - Jul 2024
+- [Datadog 101: Site Reliability Engineer](https://learn.datadoghq.com/certificates/sfbaqryjto) - Jul 2024
+- [Introduction to Synthetic Tests](https://learn.datadoghq.com/certificates/p6ydykkpbp) - Jun 2024
+- [Datadog Foundation](https://learn.datadoghq.com/certificates/n1ymkkkp7z) - Jun 2024
 
-**GitOps & Kubernetes**
+**GitOps**
 
-- GitOps at Scale (Argoproj)
-- GitOps Fundamentals (Argoproj)
-- Argo project certification
+- GitOps at Scale certificate - Codefresh - Mar 2023 - `63242d42bf43907ba64a1709`
+- GitOps Fundamentals - Codefresh - `63f611486da07e5ca30fcc11`
 
 **Databases & CI/CD**
 
-- MongoDB Database Administrator (DBA) Path
-- GitLab CI Fundamentals
+- MongoDB Database Administrator (DBA) Path - MongoDB - Dec 2023 - `MDBhgg669mh5l`
+- GitLab CI Fundamentals - GitLab - Jan 2024
 
 Full list (11 licenses and certifications) on [LinkedIn](https://www.linkedin.com/in/lucas-spirito-875161245/details/certifications/)
 
