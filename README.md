@@ -56,6 +56,7 @@ I build platforms that teams can trust: measurable, automated and resilient.
 [![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)]()
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)]()
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)]()
+[![AWS Kiro](https://img.shields.io/badge/Kiro-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 
 ---
 
@@ -110,8 +111,9 @@ day-to-day reliability of critical customer-facing services.
 I use AI agents as a core part of my engineering workflow - not just for code, but to
 operate infrastructure, automate processes and multiply my throughput:
 
-- **Agentic coding assistants** - opencode, Claude Code and similar agents for
-  infra automation, scripting, configuration management and day-to-day ops.
+- **Agentic coding assistants** - opencode, Claude Code, AWS Kiro and similar
+  agents for infra automation, scripting, configuration management and
+  day-to-day ops.
 - **MCP servers & custom skills** - extending agent tooling with Model Context
   Protocol servers and tailored skills to fit my environment and workflows.
 - **Browser automation** - Playwright-driven scraping and UI automation to gather
