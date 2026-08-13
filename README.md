@@ -19,23 +19,37 @@ I build platforms that teams can trust: measurable, automated and resilient.
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)]()
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)]()
+[![Kustomize](https://img.shields.io/badge/Kustomize-325C9A?style=for-the-badge&logo=kustomize&logoColor=white)]()
+[![Argo Rollouts](https://img.shields.io/badge/Argo%20Rollouts-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)]()
 
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)]()
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)]()
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)]()
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)]()
 [![Elastic Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)]()
+[![Synthetic Monitoring](https://img.shields.io/badge/Synthetic%20Tests-632CA6?style=for-the-badge&logo=datadog&logoColor=white)]()
+[![Continuous Profiling](https://img.shields.io/badge/Continuous%20Profiling-632CA6?style=for-the-badge&logo=datadog&logoColor=white)]()
+
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)]()
+[![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)]()
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)]()
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)]()
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)]()
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)]()
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=groovy&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ---
 
@@ -87,9 +101,28 @@ day-to-day reliability of critical customer-facing services.
 
 ## Certifications
 
-- [Introduction to OpenTelemetry with Datadog](https://learn.datadoghq.com/certificates/iugwz6vyr3) - Datadog Learning Center - Jul 2025
-- [Optimize Request Latency with Profiling Timeline](https://learn.datadoghq.com/certificates/s1zltty1lf) - Datadog Learning Center - Jul 2024
-- 11 licenses and certifications in total - see full list on [LinkedIn](https://www.linkedin.com/in/lucas-spirito-875161245/details/certifications/)
+**Datadog Learning Center**
+
+- [Introduction to OpenTelemetry with Datadog](https://learn.datadoghq.com/certificates/iugwz6vyr3) - Jul 2025
+- [Optimize Request Latency with Profiling Timeline](https://learn.datadoghq.com/certificates/s1zltty1lf) - Jul 2024
+- Tagging Best Practices
+- Datadog 101: Site Reliability Engineer
+- Datadog 101: Developer
+- Datadog Foundation
+- Introduction to Synthetic Tests
+
+**GitOps & Kubernetes**
+
+- GitOps at Scale (Argoproj)
+- GitOps Fundamentals (Argoproj)
+- Argo project certification
+
+**Databases & CI/CD**
+
+- MongoDB Database Administrator (DBA) Path
+- GitLab CI Fundamentals
+
+Full list (11 licenses and certifications) on [LinkedIn](https://www.linkedin.com/in/lucas-spirito-875161245/details/certifications/)
 
 ## Education
 
